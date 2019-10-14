@@ -3,7 +3,7 @@
 An application that tracks time, actions, and intentions similar to other tools you've heard of. The twist is our focus on providing a more kinesthetic, auditory, and overall human interface through things like voice recognition and virtual AI assistants while treating you like the intelligent creature you are. More than just a tool to get things done the way you already do, we believe you are capable of integrating advanced introspective techniques for process improvement, greater focus, and more effective use of time into your workflow without obstructing it. What kind of techniques?
 
 1. Spaced repetition for retention of new knowledge, and integration with a wide array of tools you may already use to synthesize that knowledge as you encounter it.
-2. Deep Work, i.e. asking yourself direct and actionable questions about how you're using your time in the mould of well known mentors, authors, and researchers who broche the subject.
+2. Deep Work, i.e. asking yourself direct and actionable questions about how you're using your time in the mould of well known mentors, authors, and researchers who broach the subject.
 3. Automatically scheduling the "biohacks" like meditation, breath work, and powernaps into your routine based on integration with fitness tracking technologies and insights into your process gleaned from time tracking and some back and forth between you and Paragon's assistant - questions such as:
 
 | Scenario | Question |
